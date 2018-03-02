@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/newsof1111/cordova-plugin-video-picture-preview-picker-V2.git"
+    "url": "git+https://github.com/nicofo/cordova-plugin-video-picture-preview-picker-V2.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -29,7 +29,7 @@
   "author": "soufien karray",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/newsof1111/cordova-plugin-video-picture-preview-picker-V2/issues"
+    "url": "https://github.com/nicofo/cordova-plugin-video-picture-preview-picker-V2.git/issues"
   },
-  "homepage": "https://github.com/newsof1111/cordova-plugin-video-picture-preview-picker-V2#readme"
+  "homepage": "https://github.com/nicofo/cordova-plugin-video-picture-preview-picker-V2.git#readme"
 }
