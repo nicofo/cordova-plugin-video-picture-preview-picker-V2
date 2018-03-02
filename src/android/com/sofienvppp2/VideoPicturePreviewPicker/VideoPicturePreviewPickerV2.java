@@ -58,10 +58,9 @@ public class VideoPicturePreviewPickerV2 extends CordovaPlugin {
                     .checkCallingOrSelfPermission(android.Manifest.permission.WRITE_EXTERNAL_STORAGE);
             if (read != PackageManager.PERMISSION_GRANTED && write != PackageManager.PERMISSION_GRANTED) {
                 Intent intent = new Intent(cordova.getActivity(), GettingPermissionsActivity.class);
-                    if (this.cordova != null)
-                        this.cordova.startActivityForResult((CordovaPlugin) this, intent, 0);
-
-
+                if (this.cordova != null)
+                    this.cordova.startActivityForResult((CordovaPlugin) this, intent, 0);
+                intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                     context.startActivity(intent);
             } else {
                 if (action.equals("openPicker")) {
