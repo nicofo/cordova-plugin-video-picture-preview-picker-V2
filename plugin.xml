@@ -34,7 +34,7 @@
 
 		<config-file target="AndroidManifest.xml" parent="/manifest/application">
 
-			<activity android:label="@string/multi_app_name" android:name="com.sofienvppp2.VideoPicturePickerActivity" android:theme="@android:style/Theme.Holo.Light">
+			<activity android:label="@string/multi_app_name2" android:name="com.sofienvppp2.VideoPicturePickerActivity" android:theme="@android:style/Theme.Holo.Light">
             </activity>
             <activity
                 android:name="com.sofienvppp2.GettingPermissionsActivity"></activity>
@@ -62,7 +62,7 @@
 		
 		<source-file src="src/android/Library/res/values/colors.xml" target-dir="res/values"/>
 		<source-file src="src/android/Library/res/layout/actionbar_discard_button.xml" target-dir="res/layout"/>
-		<source-file src="src/android/Library/res/layout/actionbar_done_button.xml" target-dir="res/layout"/>
+		<source-file src="src/android/Library/res/layout/actionbar_done_button2.xml" target-dir="res/layout"/>
 		<source-file src="src/android/Library/res/layout/video_picture_picker2_activity.xml" target-dir="res/layout"/>
 		<source-file src="src/android/Library/res/layout/simple_list_item_1.xml" target-dir="res/layout"/>
 		<source-file src="src/android/Library/res/layout/actionbar_add.xml" target-dir="res/layout"/>

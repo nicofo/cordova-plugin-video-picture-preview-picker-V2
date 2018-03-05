@@ -90,7 +90,7 @@ public class VideoPicturePickerActivity extends Activity {
         countSelection = ((TextView) findViewById(fakeR.getId("id", "countSelection")));
         description = ((TextView) findViewById(fakeR.getId("id", "description")));
         cancel_button = (FrameLayout) findViewById(fakeR.getId("id", "actionbar_discard"));
-        done_button = (FrameLayout) findViewById(fakeR.getId("id", "actionbar_done"));
+        done_button = (FrameLayout) findViewById(fakeR.getId("id", "actionbar_done2"));
         counterbadges = (FrameLayout) findViewById(fakeR.getId("id", "actionbar_add"));
         imagePreview = (ImageView) findViewById(fakeR.getId("id", "imageView1"));
         videoPreview = (VideoView) findViewById(fakeR.getId("id", "videoView1"));
