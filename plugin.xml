@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
   xmlns:android="http://schemas.android.com/apk/res/android"
-  id="cordova-plugin-video-picture-preview-picker-V2"
+  id="crumb-cordova-plugin-video-picture-preview-picker-v2"
   version="1.1.1">
 
-	<name>VideoPicturePreviewPickerV2</name>
+	<name>CrumbVideoPicturePreviewPickerV2</name>
 
 	<description>
 		This plugin allows selection of  image(s)/videos(s) with a smart preview  in a cordova app

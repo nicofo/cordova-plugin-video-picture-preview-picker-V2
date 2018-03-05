@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-video-picture-preview-picker-v2",
+  "name": "crumb-cordova-plugin-video-picture-preview-picker-v2",
   "version": "1.1.1",
   "description": "This plugin allows selection of  image(s)/videos(s) with a smart preview  in a cordova app",
   "cordova": {
