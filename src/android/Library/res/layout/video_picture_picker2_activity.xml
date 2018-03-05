@@ -17,7 +17,7 @@
         android:background="@color/White"
         android:orientation="horizontal">
 
-        <include layout="@layout/actionbar_discard_button" />
+        <include layout="@layout/actionbar_discard_button2" />
 
         <include layout="@layout/actionbar_done_button2" />
 
